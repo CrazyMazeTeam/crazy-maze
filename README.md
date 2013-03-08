@@ -1,2 +1,12 @@
 crazy-maze
 ==========
+
+Authors: 
+
+
+Installation:
+
+
+
+
+
